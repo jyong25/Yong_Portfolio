@@ -62,6 +62,7 @@ Intermediate Statistics - Students will explore additional topics in parametric 
 The Contemporary City - We will take an interdisciplinary approach, concentrating on both social and political perspectives
 
 
+First Update to README
 
 
 
