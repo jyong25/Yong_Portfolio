@@ -65,6 +65,7 @@ The Contemporary City - We will take an interdisciplinary approach, concentratin
 # Census Academy Achievements
 
 
+![Screenshot 2024-10-31 114158](https://github.com/user-attachments/assets/aa60c9b0-6d6c-4960-96e1-62791c006119)
 
 
 
