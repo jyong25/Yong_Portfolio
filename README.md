@@ -53,13 +53,19 @@ Math & Social Media - Students will learn the configuration of our campus, the n
 Database & Data Administration - This course teaches students how database systems are used and managed, and the issues associated with protecting associated data assets
 
 
-Elemtary Statistics - We will focus on elementary probability theory, the fundamentals of descriptive and inferential statistics, and the interpretation of results
+Elementary Statistics - We will focus on elementary probability theory, the fundamentals of descriptive and inferential statistics, and the interpretation of results
 
 
 Intermediate Statistics - Students will explore additional topics in parametric and non-parametric methods, including analysis of variance (ANOVA) and multiple regression
 
 
 The Contemporary City - We will take an interdisciplinary approach, concentrating on both social and political perspectives
+
+
+# Census Academy Achievements
+
+
+
 
 
 First Update to README
