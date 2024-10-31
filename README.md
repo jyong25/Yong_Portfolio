@@ -68,6 +68,32 @@ The Contemporary City - We will take an interdisciplinary approach, concentratin
 ![Screenshot 2024-10-31 114158](https://github.com/user-attachments/assets/aa60c9b0-6d6c-4960-96e1-62791c006119)
 
 
+I learned how to find and use the correct tools to see the social vulnerability in Puerto Rico, which included various details like age, access to vehicles, and interent connectivity.
+
+
+![Second Badge](https://github.com/user-attachments/assets/f1b0dd08-4213-4e19-940e-5ba90a06859f)
+
+
+I learned what Margin of Error is and how there will be a margin of error because they are taking data from a sample within a population, as well as what that margin of error means and how reliable that data is.
+
+
+![Third Badge](https://github.com/user-attachments/assets/d9b868a8-41d4-474c-af99-bb700f62c3cd)
+
+
+I learned how to analyze the data of where the foreign-born population lives and how it has changed, and how to take that data and show it visually.
+
+
+![Fourth Badge](https://github.com/user-attachments/assets/0318f20f-d33e-404f-85a6-141344a90f56)
+
+
+I learned how to find the correct data to analyze and how to take that data and analyze it so I can create or improve a business.
+
+
+![Fifth Badge](https://github.com/user-attachments/assets/cdc3b3fd-1f35-428d-aca6-ba3c7fde40e2)
+
+
+I learned how to use the Monthly State Retails Sales Tool which helped me analyze the data by portions for different levels.
+
 
 First Update to README
 
