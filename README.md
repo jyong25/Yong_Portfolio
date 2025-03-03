@@ -5,11 +5,11 @@ Jeffery Yong // Class of 2027
 
 Data Science Major
 
-My goals, honestly, are to be happy and successful no matter what I do and just enjoy life
+My goals, honestly, are to be happy and successful in everything that I do and just enjoy life because you only get one
 
 # Course List
 ## Sophomore Year
-Introduction to Data Science - An introduction showing what Data Science is and what you can do with a Data Science degree.
+Introduction to Data Science - An introduction showing what Data Science is and what you can do with a Data Science degree. 
 
 
 Introduction to Philosophy - An introduction into philosophy and a look into the greatest minds that shaped the world as we know it today.
@@ -18,13 +18,12 @@ Introduction to Philosophy - An introduction into philosophy and a look into the
 Fiction - A study into how stories are created and what makes a great story
 
 
-Intro to Business Analytics - An introduction into the study of Business Analytics and what makes a Business successful
+Intro to Business Analytics - This course teaches students the application and limitations of statistical techniques in testing business problems. It covers simple and multiple regression analysis, time series and cross section analysis, and problems encountered in regression such as multicollinearity and serial correlation. This course also introduces students to some of the tools that businesses use to optimize their activities. Students will, among others, learn how to use Excel, EViews and also conduct spreadsheet sensitivity analysis.
+
+Elementary Mandarin Chinese 1 - Students will learn to develop and reinforce language skills in listening, speaking, reading, and writing as it relates to everyday life situations. It aims to develop students’ elementary communicative skills and knowledge of the Chinese language and culture, using Chinese language as the media of instruction.
 
 
-Elementary Mandarin Chinese 1 - Learning the basics of mandarin chinese - how to speak, write, read, and listen
-
-
-Machine Learning 1 - A look into machine learning and deep learning to understand how machines and code works
+Machine Learning 1 - Students will learn to develop AI applications, demonstrate knowledge of machine learning, be able to write, test and trace computer programs for artificial intelligence, develop application for artificial intelligence, and write computer programs in Python 
 # Freshman Year
 Principles of Management - This course in management focuses on the analysis of the basic activities of the management process
 
