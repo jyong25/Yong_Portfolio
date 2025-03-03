@@ -94,7 +94,6 @@ I learned how to find the correct data to analyze and how to take that data and 
 I learned how to use the Monthly State Retails Sales Tool which helped me analyze the data by portions for different levels.
 
 
-First Update to README
 
 
 
