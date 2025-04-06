@@ -9,6 +9,22 @@ My goals, honestly, are to be happy and successful in everything that I do and j
 
 # Course List
 ## Sophomore Year
+Stats For Business Finance and Econ - provide students with an introduction to statistical concepts in an applied context involving economics, finance, and business
+
+
+Information Technology Ethics - This course addresses the assessment of ethical principles within the application of
+information technologies to produce and store data and disseminate and use information.
+
+
+Total Business Information Systems - In-depth analysis of business applications including enterprise resource planning and electronic
+commerce. Basic and advanced applications with special emphasis on Management Information
+Systems (MIS). This course is intended to engage students with the main concepts of the IS discipline via clear learning
+objectives, which are reinforced with up-to-date business examples and hands-on practice
+
+
+Introduction to Sociology - This class introduces you to the discipline of sociology and sociological thinking
+
+
 Introduction to Data Science - An introduction showing what Data Science is and what you can do with a Data Science degree. 
 
 
